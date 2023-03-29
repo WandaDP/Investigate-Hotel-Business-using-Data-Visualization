@@ -1,9 +1,9 @@
-# Python : Investigate Hotel Business using Data Visualization
+## Python : Investigate Hotel Business using Data Visualization
 
 Hotel is one of the most important tourism industry accommodation. To improve hotel business performance we need to explore and analyze the data. 
 This study case focus on data exploration to determine customer behavior in making hotel reservations and its relationship to the impact of hotel booking cancellations. We will present the insights with data visualization to make it easier understand data.
 
-### Dataset
+#### Dataset
 hotel_bookings_data.csv 
 - hotel : Types of Hotels (City Hotel & Resort Hotel)
 - is_canceled : Indicates reservation is canceled (1) or not (0)
@@ -35,15 +35,15 @@ hotel_bookings_data.csv
 - total_of_special_requests : Number of special requests made by the customer.
 - reservation_status : Check-Out – customer has checked in but already departed; No-Show – customer did not check-in and did inform the hotel of the reason why
 
-### Tools
+#### Tools
 - Programming Language : Python
 - Python Library : Pandas & Numpy
 - Visualization : Matplotlib & Seaborn 
 
-### Data Preprocessing
-1.1 Handle Missing Value
-1.2 Handle Incorrect Data Type
-1.3 Handle Unsuitable Values
-1.4 Remove Unnecessary Data
+#### Data Preprocessing
+1.1 Handle Missing Value <br/>
+1.2 Handle Incorrect Data Type <br/>
+1.3 Handle Unsuitable Values <br/>
+1.4 Remove Unnecessary Data <br/>
 
-### Data Visualization
+#### Data Visualization
