@@ -47,3 +47,5 @@ hotel_bookings_data.csv
 1.4 Remove Unnecessary Data <br/>
 
 #### Data Visualization
+
+** For further explanation can be seen in the https://github.com/WandaDP/Investigate-Hotel-Business-using-Data-Visualization/blob/master/Investigate%20Hotel%20Business%20using%20%20Data%20Visualization.pdf **
