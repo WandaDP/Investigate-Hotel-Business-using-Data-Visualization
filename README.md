@@ -4,7 +4,7 @@ Hotel is one of the most important tourism industry accommodation. To improve ho
 This study case focus on data exploration to determine customer behavior in making hotel reservations and its relationship to the impact of hotel booking cancellations. We will present the insights with data visualization to make it easier understand data.
 
 ### Dataset
-- hotel_bookings_data.csv 
+hotel_bookings_data.csv 
 - hotel : Types of Hotels (City Hotel & Resort Hotel)
 - is_canceled : Indicates reservation is canceled (1) or not (0)
 - lead_time : Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
@@ -41,9 +41,9 @@ This study case focus on data exploration to determine customer behavior in maki
 - Visualization : Matplotlib & Seaborn 
 
 ### Data Preprocessing
-- Handle Missing Value
-- Handle Incorrect Data Type
-- Handle Unsuitable Values
-- Remove Unnecessary Data
+1.1 Handle Missing Value
+1.2 Handle Incorrect Data Type
+1.3 Handle Unsuitable Values
+1.4 Remove Unnecessary Data
 
 ### Data Visualization
