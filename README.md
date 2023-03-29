@@ -7,7 +7,13 @@ Dataset : hotel_bookings_data.csv
 
 ### Tools
 - Programming Language : Python
-- Python Library : pandas & Numpy
+- Python Library : Pandas & Numpy
 - Visualization : Matplotlib & Seaborn 
 
+### Data Preprocessing
+- Handle Missing Value
+- Handle Incorrect Data Type
+- Handle Unsuitable Values
+- Remove Unnecessary Data
 
+### Data Visualization
